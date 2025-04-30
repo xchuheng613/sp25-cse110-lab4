@@ -7,7 +7,7 @@ let statistics = {
     rareCars: 2
 }
 
-for (key in statistics) {
+for (let key in statistics) {
     const val = statistics[key]
     if (key[0] == 'r' || val % 2 != 0) {
         console.log(key);
