@@ -5,10 +5,10 @@ citylots.json
 expose.js
 
 ## Question 3
-161B
+778kb
 
 ## Question 4
-9ms
+78ms
 
 ## Question 5
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
